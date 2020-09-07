@@ -1,7 +1,7 @@
 # Kaggle Titanic Machine Learning Competition
 View Kaggle Notebook: https://www.kaggle.com/hoomanramezani/kernel67e1c4e339
 
-The goal of this competition is build an ML a model that predicts which passengers survived the Titanic shipwreck, using the Titanic passenger dataset (ie name, age, gender, socio-economic class, etc).
+The goal of this competition is to build an ML model that predicts which passengers survived the Titanic shipwreck, using the Titanic passenger dataset (ie name, age, gender, socio-economic class, etc).
      
 Initially the dataset was analyzed in depth, with each features and experimental feature cross's correlation with survival tested. Our feature engineering concluded with 7 numeric features with strong predictive power towards survivablity that were ready to be fed into our model.
      
